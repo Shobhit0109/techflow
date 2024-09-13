@@ -51,11 +51,3 @@ Here’s an example of TechFlow in action:
 <h1>Welcome to TechFlow</h1>
 <p>TechFlow merges the future with functionality. Its smooth geometric shapes create a bold yet professional statement.</p>
 ```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Make sure to adjust the repository links and other placeholders as needed!
